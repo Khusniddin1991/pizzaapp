@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001572769888",
+    "project_id": "pizatto-92227",
+    "storage_bucket": "pizatto-92227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001572769888:android:ac6ea0f1828fb04e43e305",
+        "android_client_info": {
+          "package_name": "com.pdp.pizzadilevery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001572769888-89ljbgug576g8ihmqalvn0j4gsp155vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Lgv8nBTyXS1stDCBWsSBF1cf2u7nBv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001572769888-89ljbgug576g8ihmqalvn0j4gsp155vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
